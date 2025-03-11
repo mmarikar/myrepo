@@ -1,1 +1,1 @@
-print("Hello, Git from VSisualStudio")
+print("Hello, Git from RStudio")
